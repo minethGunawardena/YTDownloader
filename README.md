@@ -1,4 +1,4 @@
-# YouTube Downloader - Version 1.0.0
+# YouTube Downloader - Version 1.0.1
 
 ## Overview
 Welcome to the **YouTube Downloader** app! This tool lets you download YouTube videos and playlists with ease, supporting various qualities and formats.
