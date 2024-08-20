@@ -38,4 +38,4 @@ For assistance or feedback, contact [Mineth Gunawardena](mailto:minethdilshangun
 - Enhanced error handling.
 
 ## License
-This app is not licensed under MIT. For more details, see the LICENSE file. Created for fun and educational purposes.
+This app is not licensed under MIT. For more details, see the LICENSE file.
