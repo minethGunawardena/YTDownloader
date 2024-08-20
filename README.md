@@ -12,8 +12,8 @@ Welcome to the **YouTube Downloader** app! This tool lets you download YouTube v
 - **Progress Tracking**: Monitor download progress and speed.
 - **File Management**: Automatic file naming and direct file opening.
 
-## Installation
-1. **Download and Extract**: Download the app and extract it to your desired location.
+## Libs
+1. **Need yt-dlp libraries**
 
 ## Usage
 1. **Open the App**: Launch the YouTube Downloader.
