@@ -3,6 +3,9 @@
 ## Overview
 Welcome to the **YouTube Downloader** app! This tool lets you download YouTube videos and playlists with ease, supporting various qualities and formats.
 
+## Requirements
+-**ffmpeg Needs to be installed in your Pc.**
+
 ## Features
 - **Full-Screen Mode**: Enjoy an immersive experience.
 - **Download Videos or Playlists**: Easily download individual videos or playlists (playlist feature is in Beta).
